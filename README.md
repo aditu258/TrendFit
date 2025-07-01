@@ -9,14 +9,6 @@ This project implements a simple linear regression model from scratch to predict
 ## ✒️ Author
 
 - **Aditya Sinha**
-
----
-
-## 🚀 Kaggle Notebook
-
-The project is also available as a Kaggle Notebook.  
-You can view it [here](https://www.kaggle.com/code/adityasinha5730/trendfit/edit).
-
 ---
 
 ## 📝 Project Overview
