@@ -1,4 +1,4 @@
-# 🧠 TrendFit
+ # 🧠 TrendFit
 
 > A simple linear regression model to predict student placement packages based on CGPA.
 
